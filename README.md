@@ -1,9 +1,8 @@
 <p align="center"><img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611a3b459d738fc174acb85d5f836f3c7ec92402336&rid=giphy.gif&ct=g"></p>
+<br>
 
+# EDA-Sourabh-S H
 
-
-
-# EDA-Sourabh-Upgrad
 Credit Exploratory Data Analysis Case Study - March - 2022
 
 
@@ -47,6 +46,9 @@ Results Expected by Learners:
 Present the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.
 Identify the missing data and use appropriate method to deal with it. (Remove columns/or replace it with an appropriate value)
 Hint: Note that in EDA, since it is not necessary to replace the missing value, but if you have to replace the missing value, what should be the approach. Clearly mention the approach.
+
+<p align="center"><img src="https://miro.medium.com/max/828/0*j8LjgYr1r1xPrJkr.gif"></p>
+
 
 Identify if there are outliers in the dataset. Also, mention why do you think it is an outlier. Again, remember that for this exercise, it is not necessary to remove any data points.
 Identify if there is data imbalance in the data. Find the ratio of data imbalance.
