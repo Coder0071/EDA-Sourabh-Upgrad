@@ -29,6 +29,7 @@ Cancelled: The client cancelled the application sometime during approval. Either
 Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
 Unused offer: Loan has been cancelled by the client but on different stages of the process.
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+<p align="center"><img src="https://media0.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif?cid=790b761160a4596a43baf8c29aede5a5d8d8d8d93ba70381&rid=giphy.gif&ct=g"></p>
 
 Business Objectives:
 This case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
@@ -59,3 +60,7 @@ Hint: Since there are a lot of columns, you can run your analysis in loops for t
 Explain the results of univariate, segmented univariate, bivariate analysis, etc. in business terms.
 Find the top 10 correlation for the Client with payment difficulties and all other cases (Target variable). Note that you have to find the top correlation by segmenting the data frame w.r.t to the target variable and then find the top correlation for each of the segmented data and find if any insight is there. Say, there are 5+1(target) variables in a dataset: Var1, Var2, Var3, Var4, Var5, Target. And if you have to find top 3 correlation, it can be: Var1 & Var2, Var2 & Var3, Var1 & Var3. Target variable will not feature in this correlation as it is a categorical variable and not a continuous variable which is increasing or decreasing.
 Include visualisations and summarise the most important results in the presentation. You are free to choose the graphs which explain the numerical/categorical variables. Insights should explain why the variable is important for differentiating the clients with payment difficulties with all other cases.
+
+
+<p align="center"><img src="https://d3-graph-gallery.com/img/graph/histogram_binSize.gif"></p>
+
