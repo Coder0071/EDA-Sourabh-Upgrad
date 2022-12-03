@@ -1,3 +1,8 @@
+<p align="center"><img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611a3b459d738fc174acb85d5f836f3c7ec92402336&rid=giphy.gif&ct=g"></p>
+
+
+
+
 # EDA-Sourabh-Upgrad
 Credit Exploratory Data Analysis Case Study - March - 2022
 
